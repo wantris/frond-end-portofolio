@@ -39,37 +39,28 @@ export default class Skill extends Component {
                 <div className="subheading mb-3">Programming Languages &amp; Tools</div>
                 <ul className="list-inline list-icons">
                     <li className="list-inline-item">
-                    <i className="devicons devicons-html5"></i>
+                    <i className="devicons devicons-html5" title="HTML5"></i>
                     </li>
                     <li className="list-inline-item">
-                    <i className="devicons devicons-css3"></i>
+                    <i className="devicons devicons-css3" title="CSS3"></i>
                     </li>
                     <li className="list-inline-item">
-                    <i className="devicons devicons-javascript"></i>
+                    <i className="devicons devicons-javascript" title="Javascript"></i>
                     </li>
                     <li className="list-inline-item">
-                    <i className="devicons devicons-jquery"></i>
+                    <i className="devicons devicons-jquery" title="JQUERY"></i>
                     </li>
                     <li className="list-inline-item">
-                    <i className="devicons devicons-sass"></i>
+                    <i className="devicons devicons-bootstrap" title="Bootstrap"></i>
                     </li>
                     <li className="list-inline-item">
-                    <i className="devicons devicons-less"></i>
+                    <i className="devicons devicons-npm" title="NPM"></i>
                     </li>
                     <li className="list-inline-item">
-                    <i className="devicons devicons-bootstrap"></i>
+                    <i className="devicons devicons-laravel" title="Laravel"></i>
                     </li>
                     <li className="list-inline-item">
-                    <i className="devicons devicons-wordpress"></i>
-                    </li>
-                    <li className="list-inline-item">
-                    <i className="devicons devicons-grunt"></i>
-                    </li>
-                    <li className="list-inline-item">
-                    <i className="devicons devicons-gulp"></i>
-                    </li>
-                    <li className="list-inline-item">
-                    <i className="devicons devicons-npm"></i>
+                    <i className="devicons devicons-codeigniter" title="Codeigniter"></i>
                     </li>
                 </ul>
 

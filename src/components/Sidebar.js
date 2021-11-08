@@ -56,7 +56,7 @@ export default class Sidebar extends Component{
                             <AnchorLink className="nav-link js-scroll-trigger" href="#skills">Skills</AnchorLink>
                         </li>
                         <li className="nav-item">
-                            <AnchorLink className="nav-link js-scroll-trigger" href="#interests">Interests</AnchorLink>
+                            <AnchorLink className="nav-link js-scroll-trigger" href="#projects">Projects</AnchorLink>
                         </li>
                     </ul>
                 </div>
